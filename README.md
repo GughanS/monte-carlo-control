@@ -13,8 +13,8 @@ Include the steps involved in the Monte Carlo control algorithm
 Include the Monte Carlo control function
 
 ## OUTPUT:
-### Name:
-### Register Number:
+**Name:** Gughan S
+**Register Number:** 212223240043
 
 Mention the Action value function, optimal value function, optimal policy, and success rate for the optimal policy.
 
